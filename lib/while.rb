@@ -1,4 +1,4 @@
-levitation_force = 6
+wingardium_leviosa = 6
 
 def using_while  
   while wingardium_leviosa < 10
